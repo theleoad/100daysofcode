@@ -2,19 +2,19 @@
 
 Pretendo seguir essa trilha durante os 100 dias:
 
-* **Segunda** - freeCodeCamp
+* **Segunda** - freeCodeCamp / Algum curso do Udemy.com
 
 * **Terça** - Origamid
 
-* **Quarta** - freeCodeCamp
+* **Quarta** - freeCodeCamp / Algum curso do Udemy.com
 
 * **Quinta** - Livro Java Script & jQuery do Jon Duckett
 
-* **Sexta** - freeCodeCamp
+* **Sexta** - freeCodeCamp / Algum curso do Udemy.com
 
 * **Sábado** - Trabalhar em algum projeto de JS
 
-* **Domingo** - freeCodeCamp
+* **Domingo** - freeCodeCamp / Algum curso do Udemy.com
 
 
 ## Conteúdo
