@@ -3,7 +3,7 @@
 ## Conteúdo
 
 * [Regras](https://#)
-* [Log - Clique aqui para ver meu progresso](https://#)
+* [Log - Clique aqui para ver meu progresso](https://github.com/theleoad/100daysofcode/blob/master/log.md)
 * [Recursos para o desafio](https://#)
 * [Minha trilha](https://#)
 
