@@ -1,11 +1,10 @@
 # Desafio #100DaysOfCode
 
 ## Conteúdo
-
-* [Regras](https://#)
-* [Log - Clique aqui para ver meu progresso](https://github.com/theleoad/100daysofcode/blob/master/log.md)
-* [Recursos para o desafio](https://#)
-* [Minha trilha](https://#)
+* [Regras](regras.md)
+* [Log - Clique aqui para ver meu progresso](log.md)
+* [Recursos para o desafio](recursos.md)
+* [Minha trilha](trilha.md)
 
 ## Quer fazer o desafio também? 
 
