@@ -1,4 +1,4 @@
-# Estou começando o desafio #100DaysOfCode
+# Desafio #100DaysOfCode
 
 ## Conteúdo
 
