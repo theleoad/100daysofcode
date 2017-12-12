@@ -8,6 +8,7 @@
 
 **Link:** https://github.com/theleoad/100daysofcode/
 
+---
 
 ### Dia 1: 12 de dezembro de 2017
 
