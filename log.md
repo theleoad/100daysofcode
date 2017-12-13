@@ -26,4 +26,4 @@
 
 **Pensamentos:** Mais uma vez eu fiz algumas coisas que já tinha o conhecimento prático, mas acredito que isto está me dando uma base para melhorar no futuro. 
 
-**Links:** https://codepen.io/theleoad/pen/RxNxWR
+**Links:** https://codepen.io/theleoad/full/RxNxWR/
