@@ -17,3 +17,13 @@
 **Pensamentos:** Apesar de saber tudo que fiz hoje achei bom começar do começo para não ter problemas no futuro.
 
 **Links:** https://codepen.io/theleoad/full/ypLpVw/ | https://codepen.io/theleoad/full/GyRdKW/
+
+---
+
+### Dia 2: 13 de dezembro de 2017
+
+**Atividades do dia:** Continuei com o recap de JS. Hoje foi dia de usar o freeCodeCamp! =]
+
+**Pensamentos:** Mais uma vez eu fiz algumas coisas que já tinha o conhecimento prático, mas acredito que isto está me dando uma base para melhorar no futuro. 
+
+**Links:** https://codepen.io/theleoad/pen/RxNxWR
