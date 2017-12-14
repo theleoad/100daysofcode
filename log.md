@@ -32,7 +32,7 @@
 
 ### Dia 3: 14 de dezembro de 2017
 
-**Atividades do dia:** Comecei o curso Intro to JavaScript da Flatiron School. Acho interessante fazer esses cursos, pois cada um tem uma abordagem diferente. 
+**Atividades do dia:** Comecei o curso Intro to JavaScript da Flatiron School. Acho interessante fazer esses cursos pois cada um tem uma abordagem diferente. 
 
 **Pensamentos:** Estou bem animado. Hoje realmente aprendi alguns conceitos novos e gostei muito de saber da diferença entre let, var e const no JS. 
 
