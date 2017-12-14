@@ -27,3 +27,13 @@
 **Pensamentos:** Mais uma vez eu fiz algumas coisas que já tinha o conhecimento prático, mas acredito que isto está me dando uma base para melhorar no futuro. 
 
 **Links:** https://codepen.io/theleoad/full/RxNxWR/
+
+---
+
+### Dia 3: 14 de dezembro de 2017
+
+**Atividades do dia:** Comecei o curso Intro to JavaScript da Flatiron School. Acho interessante fazer esses cursos, pois cada um tem uma abordagem diferente. 
+
+**Pensamentos:** Estou bem animado. Hoje realmente aprendi alguns conceitos novos e gostei muito de saber da diferença entre let, var e const no JS. 
+
+**Links:** http://blog.alura.com.br/entenda-diferenca-entre-var-let-e-const-no-javascript/ | https://codepen.io/theleoad/full/ppJWzY/
