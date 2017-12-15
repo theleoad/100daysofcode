@@ -37,3 +37,13 @@
 **Pensamentos:** Estou bem animado. Hoje realmente aprendi alguns conceitos novos e gostei muito de saber da diferença entre let, var e const no JS. 
 
 **Links:** http://blog.alura.com.br/entenda-diferenca-entre-var-let-e-const-no-javascript/ | https://codepen.io/theleoad/full/ppJWzY/
+
+---
+
+### Dia 4: 15 de dezembro de 2017
+
+**Atividades do dia:** Dia de freeCodeCamp: JS + JS + JS + JS! =]
+
+**Pensamentos:** Dia corrido e feliz por estar fazendo isso. Amanhã quero tentar alguma ideia de projeto simples. 
+
+**Links:** -
