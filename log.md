@@ -47,3 +47,13 @@
 **Pensamentos:** Dia corrido e feliz por estar fazendo isso. Amanhã quero tentar alguma ideia de projeto simples. 
 
 **Links:** -
+
+---
+
+### Dia 5: 16 de dezembro de 2017
+
+**Atividades do dia:** Quase não consigo estudar hoje, fui ver Star Wars no cinema e enrolei a vida! Mas continuei na minha saga com JS. Ainda estudando variáveis, funções, condicionais, etc. 
+
+**Pensamentos:** Tudo tranquilo. Vamos em frente para começar aparecer coisas mais legais no meu CodePen!
+
+**Links:** https://codepen.io/theleoad/pen/OzyBdo
