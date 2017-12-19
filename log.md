@@ -57,3 +57,13 @@
 **Pensamentos:** Tudo tranquilo. Vamos em frente para começar aparecer coisas mais legais no meu CodePen!
 
 **Links:** https://codepen.io/theleoad/pen/OzyBdo
+
+---
+
+### Dia 6: 18 de dezembro de 2017
+
+**Atividades do dia:** Enforquei o domingo mas hoje foi bem proveitoso. JS pra variar. Já estou pensando em alguns pequenos projetos para começar a fazer.
+
+**Pensamentos:** Me senti um pouco mal por ter pulado um dia, mas vida que segu. Continuo firme. 
+
+**Links:** -
