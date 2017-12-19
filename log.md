@@ -67,3 +67,15 @@
 **Pensamentos:** Me senti um pouco mal por ter pulado um dia, mas vida que segu. Continuo firme. 
 
 **Links:** -
+
+---
+
+### Dia 7: 19 de dezembro de 2017
+
+**Atividades do dia:** Trabalhei com JS no freeCodeCamp e no Treehouse. Fiz um player de áudio e vídeo usando o MediaElement.js. 
+
+**Pensamentos:** Dia bom, bem mais que uma hora! =]
+
+**Links:** http://theleoad.com/100daysofcode/dia-7-mediaelement/ | http://www.mediaelementjs.com/
+
+
