@@ -78,4 +78,14 @@
 
 **Links:** http://theleoad.com/100daysofcode/dia-7-mediaelement/ | http://www.mediaelementjs.com/
 
+---
+
+### Dia 8: 20 de dezembro de 2017
+
+**Atividades do dia:** JS com freeCodeCamp e Treehouse! Começo ter algumas ideias para um projeto simples com o [phaser.io](https://phaser.io/).
+
+**Pensamentos:** Acho que as férias da faculdae estão deixando eu ficar bem mais que uma hora no projeto! rs
+
+**Links:** https://phaser.io/
+
 
