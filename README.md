@@ -23,3 +23,7 @@
 * Conteúdo retirado de https://github.com/Kallaway/100-days-of-code
 * Sigam o [@ka11away](https://twitter.com/ka11away), criador do #100DaysOfCode
 * Estou no twitter: [@theleoad](https://twitter.com/theleoad)
+
+---
+
+[theleoad.com](http://theleoad.com)
