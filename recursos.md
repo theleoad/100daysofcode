@@ -18,3 +18,6 @@
 * [Recursos para o desafio](recursos.md)
 * [Minha trilha](trilha.md)
 
+---
+
+[theleoad.com](http://theleoad.com)
