@@ -18,6 +18,7 @@
 8. Siga o bot [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) no twitter. Ele retuíta tweets que contenham a hashtag #100DaysofCode. Essa é uma excelente maneira de te manter motivado e participar da comunidade. Obrigado ao [@amanhimself](https://twitter.com/amanhimself) por criar o bot;
 9. Importante: (veja o n.º 4 acima para uma regra específica sobre isso) Incentive os outros que estão fazendo o mesmo desafio no Twitter ou em outros lugares - dê força, elogie, reconheça quando publicam atualizações sobre o progresso, ajude quando perceber que estão com dificuldades. Assim, vamos criar uma comunidade que é útil e eficaz, o que levará para um maior sucesso para cada pessoa envolvida.
 
+
 ## Nota
 * Conteúdo retirado de https://github.com/Kallaway/100-days-of-code
 * Sigam o [@ka11away](https://twitter.com/ka11away), criador do #100DaysOfCode
