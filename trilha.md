@@ -22,3 +22,7 @@ Pretendo seguir essa trilha durante os 100 dias:
 * [Log - Clique aqui para ver meu progresso](log.md)
 * [Recursos para o desafio](recursos.md)
 * [Minha trilha](trilha.md)
+
+---
+
+[theleoad.com](http://theleoad.com)
