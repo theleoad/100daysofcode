@@ -12,8 +12,6 @@
 
 #### [1430 Javascript Mini-Projects](https://codepen.io/collection/GHaJK/)
 
-#### [JavaScript & jQuery book by Jon Duckett](http://javascriptbook.com/)
-
 ## Conteúdo
 * [Regras](regras.md)
 * [Log - Clique aqui para ver meu progresso](log.md)
