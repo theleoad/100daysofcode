@@ -4,7 +4,7 @@
 ### *Eu irei programar e estudar programação por pelo menos 1 hora por dia nos próximos 100 dias.*
 
 #### Dia de início
-04 de novembro de 2018
+03 de novembro de 2018
 
 ## Regras adicionais
 1. Vou tuítar sobre meu progresso todos os dias usando a hashtag #100DaysOfCode;
