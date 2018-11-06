@@ -20,3 +20,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.udemy.com/curso-javascript-ninja/
 
 ---
+
+### Dia 03: 05 de novembro de 2018
+
+**Atividades do dia:** Pequeno avanço no [freeCodeCamp](https://freecodecamp.org)! Estudo de Angular para projeto da faculdade e JS Ninja na Udemy.
+
+**Pensamentos:** One step at a time!
+
+**Link:** https://www.freecodecamp.org/theleoad  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.udemy.com/curso-javascript-ninja/
+
+---
