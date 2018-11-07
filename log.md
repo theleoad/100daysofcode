@@ -31,3 +31,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.udemy.com/curso-javascript-ninja/
 
 ---
+
+### Dia 04: 06 de novembro de 2018
+
+**Atividades do dia:** Aproveitei um trabalho da faculdade (Análise e Complexidade de Algoritmos), pra fazer o Problema da Mochila em JS.
+
+**Pensamentos:** Odeio o horário de verão! 
+
+**Link:** Sem links hoje!
+
+---
