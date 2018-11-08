@@ -41,3 +41,15 @@
 **Link:** Sem links hoje!
 
 ---
+
+
+### Dia 05: 07 de novembro de 2018
+
+**Atividades do dia:** Hoje foi dia de FCC + Udemy (JS NINJA)!
+
+**Pensamentos:** Odeio o horário de verão! 
+
+**Link:** https://www.freecodecamp.org/theleoad  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.udemy.com/curso-javascript-ninja/
+
+---
