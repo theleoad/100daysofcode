@@ -59,7 +59,7 @@
 
 **Pensamentos:** Preciso resolver mais problemas de lógica para evoluir.
 
-**Link:** https://github.com/theleoad/problemaDaMochila
+**Link:** https://github.com/theleoad/problemaDaMochila  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.udemy.com/curso-javascript-ninja/
 
 ---
