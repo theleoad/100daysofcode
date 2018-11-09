@@ -42,7 +42,6 @@
 
 ---
 
-
 ### Dia 05: 07 de novembro de 2018
 
 **Atividades do dia:** Hoje foi dia de FCC + Udemy (JS NINJA)!
@@ -50,6 +49,17 @@
 **Pensamentos:** Odeio o horário de verão! 
 
 **Link:** https://www.freecodecamp.org/theleoad  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.udemy.com/curso-javascript-ninja/
+
+---
+
+### Dia 06: 08 de novembro de 2018
+
+**Atividades do dia:** Hoje consegui estudar com JS Ninja na Udemy e terminei o Problema da Mochila (em JS). 
+
+**Pensamentos:** Preciso resolver mais problemas de lógica para evoluir.
+
+**Link:** https://github.com/theleoad/problemaDaMochila
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.udemy.com/curso-javascript-ninja/
 
 ---
