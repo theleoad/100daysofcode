@@ -63,3 +63,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.udemy.com/curso-javascript-ninja/
 
 ---
+
+### Dia 07: 09 de novembro de 2018
+
+**Atividades do dia:** Consegui fechar mais uma seção do JS Ninja e comecei uns estudos de Sass. 
+
+**Pensamentos:** #TGIF.
+
+**Link:** https://www.udemy.com/advanced-css-and-sass/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.udemy.com/curso-javascript-ninja/
+
+---
+
