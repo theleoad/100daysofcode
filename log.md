@@ -75,3 +75,13 @@
 
 ---
 
+### Dia 08: 10 de novembro de 2018
+
+**Atividades do dia:** O desafio é codar 1h por dia, acho que hoje passei mais de 6h na frente do computador. JS Ninja + Angular + Sass.
+
+**Pensamentos:** #TGIF.
+
+**Link:** https://www.udemy.com/advanced-css-and-sass/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.udemy.com/curso-javascript-ninja/
+
+---
