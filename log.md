@@ -85,3 +85,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.udemy.com/curso-javascript-ninja/
 
 ---
+
+### Dia 09: 11 de novembro de 2018
+
+**Atividades do dia:** Hoje trabalhei com exercícios em JS e dei continuidade ao curso se Sass! Vou dar uma estudada em Markdown pra melhorar meu log. 😂
+
+**Pensamentos:** Domingo foi mais de descanso que de código.
+
+**Link:** https://www.udemy.com/advanced-css-and-sass/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.udemy.com/curso-javascript-ninja/
+
+---
