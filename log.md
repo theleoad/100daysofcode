@@ -96,3 +96,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.udemy.com/curso-javascript-ninja/
 
 ---
+
+### Dia 10: 12 de novembro de 2018
+
+**Atividades do dia:** Consegui terminar mais uma seção do JS Ninja e comecei a organizar um "espaço" pra postar pequenos projetos. Começando com Jekyll.  
+
+**Pensamentos:** O desafio da semana é estudar Jekyll.
+
+**Link:** https://www.udemy.com/advanced-css-and-sass/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.udemy.com/curso-javascript-ninja/
+
+---
