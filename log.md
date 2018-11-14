@@ -107,3 +107,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.udemy.com/curso-javascript-ninja/
 
 ---
+
+### Dia 11: 13 de novembro de 2018
+
+**Atividades do dia:** Jornada no NINJA JS e Sass, sem muitas novidades! Time goes fast when you have fun.
+
+**Pensamentos:** Cansado mas feliz!
+
+**Link:** https://www.udemy.com/advanced-css-and-sass/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.udemy.com/curso-javascript-ninja/
+
+---
