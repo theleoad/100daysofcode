@@ -118,3 +118,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.udemy.com/curso-javascript-ninja/
 
 ---
+
+### Dia 12: 14 de novembro de 2018
+
+**Atividades do dia:** Saindo da rotina hoje e oficialmente estudando Jekyll pra colocar um pequeno projeto no ar. =]
+
+**Pensamentos:** =]
+
+**Link:** https://www.udemy.com/criando-sites-estaticos-com-jekyll/
+
+---
