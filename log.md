@@ -128,3 +128,43 @@
 **Link:** https://www.udemy.com/criando-sites-estaticos-com-jekyll/
 
 ---
+
+### Dia 13: 15 de novembro de 2018
+
+**Atividades do dia:** Feriado e aproveitando pra poder terminar mais uma seção do JS Ninja.
+
+**Pensamentos:** Organizar o tempo para estudar melhor.
+
+**Link:** https://www.udemy.com/curso-javascript-ninja/
+
+---
+
+### Dia 14: 16 de novembro de 2018
+
+**Atividades do dia:** Comecei um pequeno projeto de testes de Jekyll seguindo o curso do Justen.  
+
+**Pensamentos:** Abandonei o FCC novamente, preciso voltar para conseguir as certificações.
+
+**Link:** https://www.udemy.com/criando-sites-estaticos-com-jekyll/
+
+---
+
+### Dia 15: 17 de novembro de 2018
+
+**Atividades do dia:** Hoje foi dia somente de mexer com um projeto em Angular, mas preciso voltar a fazer o curso pois estou muito perdido.  
+
+**Pensamentos:** =]
+
+**Link:** https://github.com/theleoad/TokajiVineria-front
+
+---
+
+### Dia 16: 18 de novembro de 2018
+
+**Atividades do dia:** Mais de 3h mexendo com o projeto de Angular, vou postar uns screenshots depois.
+
+**Pensamentos:** =]
+
+**Link:** https://github.com/theleoad/TokajiVineria-front
+
+---
