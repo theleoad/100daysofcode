@@ -168,3 +168,13 @@
 **Link:** https://github.com/theleoad/TokajiVineria-front
 
 ---
+
+### Dia 17: 19 de novembro de 2018
+
+**Atividades do dia:** Hoje trabalhei um pouco no #freeCodeCamp pra poder pegar logo as certificações.
+
+**Pensamentos:** Every little helps.
+
+**Link:** https://www.freecodecamp.org/
+
+---
