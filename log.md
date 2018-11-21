@@ -181,7 +181,7 @@
 
 ### Dia 18: 20 de novembro de 2018
 
-**Atividades do dia:** Advanced CSS + SASS, freeCodeCamp, Angular. Dia bem produtivo e muita coisa legal saindo, daqui a pouco começo postar algumas coisas dessas. 
+**Atividades do dia:** Advanced CSS + SASS, freeCodeCamp, Angular. Dia bem produtivo e muita coisa legal saindo, daqui a pouco começo postar algumas coisas dessas aqui. 
 
 **Pensamentos:** 
 
