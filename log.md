@@ -178,3 +178,15 @@
 **Link:** https://www.freecodecamp.org/
 
 ---
+
+### Dia 18: 20 de novembro de 2018
+
+**Atividades do dia:** Advanced CSS + SASS, freeCodeCamp, Angular. Dia bem produtivo e muita coisa legal saindo, daqui a pouco começo postar algumas coisas dessas. 
+
+**Pensamentos:** 
+
+**Link:** https://www.freecodecamp.org/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.udemy.com/advanced-css-and-sass/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.udemy.com/curso-javascript-ninja/
+
+---
