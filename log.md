@@ -190,3 +190,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.udemy.com/curso-javascript-ninja/
 
 ---
+
+### Dia 19: 21 de novembro de 2018
+
+**Atividades do dia:** Hoje achei que iria chegar da faculdade e conseguir estudar um pouco mais. Mas não deu, fui vencido pelo cansaço. Mas hoje trabalhei bastante com Angular e foi produtivo no fim das contas.
+
+**Pensamentos:** 
+
+**Link:** https://github.com/theleoad/TokajiVineria-front
+
+---
