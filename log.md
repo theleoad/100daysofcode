@@ -201,9 +201,86 @@
 
 ---
 
-Dia 20: 22 de novembro de 2018
-Atividades do dia: Continuei com Angula por ter que entregar o trabalho da faculdade.
+### Dia 20: 22 de novembro de 2018  
 
-Pensamentos:
+**Atividades do dia:** Continuei com Angula por ter que entregar o trabalho da faculdade.
 
-Link: https://github.com/theleoad/TokajiVineria-front
+**Pensamentos:**
+
+**Link:** https://github.com/theleoad/TokajiVineria-front
+
+---
+
+### Dia 21: 23 de novembro de 2018
+
+**Atividades do dia:** Estudei Jekyll e estou achando uma ferramenta muito interessante.
+
+**Pensamentos:** 
+
+**Link:** https://github.com/theleoad/TokajiVineria-front
+
+---
+
+### Dia 22: 24 de novembro de 2018
+
+**Atividades do dia:** Estudei Jekyll e estou achando uma ferramenta muito interessante.
+
+**Pensamentos:** 
+
+**Link:** https://github.com/theleoad/TokajiVineria-front
+
+---
+
+### Dia 23: 25 de novembro de 2018
+
+**Atividades do dia:** Fiz alguns exercícios de JS.
+
+**Pensamentos:** 
+
+**Link:** https://www.udemy.com/criando-sites-estaticos-com-jekyll/
+
+
+---
+
+### Dia 24: 26 de novembro de 2018
+
+**Atividades do dia:** Fiz alguns exercícios de JS.
+
+**Pensamentos:** 
+
+**Link:** https://www.udemy.com/curso-javascript-ninja/
+
+---
+
+### Dia 25: 27 de novembro de 2018
+
+**Atividades do dia:** Comecei um curso só para melhorar os conceitos de Flexbox. Curso do Wesbos, MUITO BOM!!
+
+**Pensamentos:** 
+
+**Link:** https://flexbox.io/
+
+---
+
+### Dia 26: 28 de novembro de 2018
+
+**Atividades do dia:** Fiz um pouco dos exercícios do curso de SASS. Também estou gostando muito.
+
+**Pensamentos:** 
+
+**Link:** https://www.udemy.com/advanced-css-and-sass/  
+
+---
+
+### Dia 27: 29 de novembro de 2018
+
+**Atividades do dia:** Continuei fazendo as lições do What the flex box. Vários novos conceitos interessantes. Também fiz alguns exercícios do freecodecamp que ando esquecendo de fazer. Mas vou me dedicar para conseguir a certificação.
+
+**Pensamentos:** 
+
+**Link:** https://flexbox.io/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.freecodecamp.org
+
+---
+
+
