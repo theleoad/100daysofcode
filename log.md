@@ -200,3 +200,10 @@
 **Link:** https://github.com/theleoad/TokajiVineria-front
 
 ---
+
+Dia 20: 22 de novembro de 2018
+Atividades do dia: Continuei com Angula por ter que entregar o trabalho da faculdade.
+
+Pensamentos:
+
+Link: https://github.com/theleoad/TokajiVineria-front
