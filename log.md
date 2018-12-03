@@ -284,3 +284,16 @@
 ---
 
 
+### Dia 28: 30 de novembro de 2018
+
+**Atividades do dia:** Fiz mais exercícios do what the flexbox.
+
+**Pensamentos:** 
+
+**Link:** https://flexbox.io/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.freecodecamp.org
+
+---
+
+
+
