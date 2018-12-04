@@ -283,17 +283,56 @@
 
 ---
 
-
 ### Dia 28: 30 de novembro de 2018
 
-**Atividades do dia:** Fiz mais exercícios do what the flexbox.
+**Atividades do dia:** Fiquei meio adoentado e não consegui fazer nada.
+
+**Pensamentos:** Cuidar da saúde também é importante
+
+**Link:** 
+
+---
+
+### Dia 29: 01 de dezembro de 2018
+
+**Atividades do dia:** Segundo dia de cama!
+
+**Pensamentos:** Cuidar da saúde também é importante
+
+**Link:** 
+
+---
+
+### Dia 30: 02 de dezembro de 2018
+
+**Atividades do dia:** Terceiro dia de cama!
+
+**Pensamentos:** Cuidar da saúde também é importante
+
+**Link:** 
+
+---
+
+### Dia 31: 03 de dezembro de 2018
+
+**Atividades do dia:** Trabalhei com o curso JS Ninja e um pouco de FCC.
 
 **Pensamentos:** 
 
-**Link:** https://flexbox.io/  
+**Link:** https://www.udemy.com/curso-javascript-ninja/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.freecodecamp.org
 
 ---
 
+### Dia 32: 04 de dezembro de 2018
+
+**Atividades do dia:** Hoje só terminie uma seção do JS Ninja e dei foco em um curso de SASS que quero finalizar ainda essa semana.
+
+**Pensamentos:** 
+
+**Link:** https://www.udemy.com/curso-javascript-ninja/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.udemy.com/sass-curso-completo
+
+---
 
 
