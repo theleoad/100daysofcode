@@ -319,7 +319,7 @@
 
 **Pensamentos:** 
 
-**Link:** https://www.udemy.com/curso-javascript-ninja/
+**Link:** https://www.udemy.com/curso-javascript-ninja/  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.freecodecamp.org
 
 ---
@@ -330,8 +330,18 @@
 
 **Pensamentos:** 
 
-**Link:** https://www.udemy.com/curso-javascript-ninja/
+**Link:** https://www.udemy.com/curso-javascript-ninja/  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.udemy.com/sass-curso-completo
+
+---
+
+### Dia 33: 05 de dezembro de 2018
+
+**Atividades do dia:** Finalizei um curso de Sass no Udemy! Achei bem legal e já estou refatorando um projeto com Sass.
+
+**Pensamentos:** 
+
+**Link:** https://www.udemy.com/sass-curso-completo
 
 ---
 
