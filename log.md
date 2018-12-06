@@ -345,4 +345,15 @@
 
 ---
 
+### Dia 34: 06 de dezembro de 2018
+
+**Atividades do dia:** Fiz dois desafios do JS Ninja e finalizei mais uma sessão. A meta para as "férias" é fazer pelo menos 2 sessões por semana.
+
+**Pensamentos:** Pare de começar e comece a terminar!
+
+**Link:** https://www.udemy.com/curso-javascript-ninja/  
+
+---
+
+
 
