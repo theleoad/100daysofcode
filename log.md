@@ -355,5 +355,16 @@
 
 ---
 
+### Dia 35: 07 de dezembro de 2018
+
+**Atividades do dia:** Caminhei mais um pouco no JS Ninja: assisti duas sessões e consegui terminar um desafio.
+
+**Pensamentos:** Pare de começar e comece a terminar!
+
+**Link:** https://www.udemy.com/curso-javascript-ninja/  
+
+---
+
+
 
 
