@@ -365,6 +365,16 @@
 
 ---
 
+### Dia 36: 08 de dezembro de 2018
+
+**Atividades do dia:** Consegui começar os cursos da Origamid, achei bem bacana o lance de Design.  
+
+**Pensamentos:**  
+
+**Link:** https://www.origamid.com/  
+
+---
+
 
 
 
