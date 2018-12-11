@@ -375,6 +375,25 @@
 
 ---
 
+### Dia 37: 09 de dezembro de 2018
+
+**Atividades do dia:** Somente Origamid. 
+
+**Pensamentos:**  
+
+**Link:** https://www.origamid.com/  
+
+---
+
+### Dia 38: 10 de dezembro de 2018
+
+**Atividades do dia:** Terminei mais uma seção e um desafio do JS Ninja!
+**Pensamentos:**  
+
+**Link:** https://www.udemy.com/curso-javascript-ninja/    
+
+---
+
 
 
 
