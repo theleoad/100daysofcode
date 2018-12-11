@@ -388,6 +388,17 @@
 ### Dia 38: 10 de dezembro de 2018
 
 **Atividades do dia:** Terminei mais uma seção e um desafio do JS Ninja!
+  
+**Pensamentos:**  
+
+**Link:** https://www.udemy.com/curso-javascript-ninja/    
+
+---
+
+### Dia 39: 11 de dezembro de 2018
+
+**Atividades do dia:** Consegui fazer 2 seções e 3 entregas de desafios do JS Ninja.
+  
 **Pensamentos:**  
 
 **Link:** https://www.udemy.com/curso-javascript-ninja/    
