@@ -405,6 +405,16 @@
 
 ---
 
+### Dia 40: 12 de dezembro de 2018
+
+**Atividades do dia:** Consegui fazer 2 seções e 2 entregas de desafios do JS Ninja.
+  
+**Pensamentos:**  
+
+**Link:** https://www.udemy.com/curso-javascript-ninja/    
+
+---
+
 
 
 
