@@ -415,6 +415,16 @@
 
 ---
 
+### Dia 41: 13 de dezembro de 2018
+
+**Atividades do dia:** Mais uma vez trabalhei só com JS Ninja. 
+  
+**Pensamentos:**  Muita coisa aprendida nessa semana!
+
+**Link:** https://www.udemy.com/curso-javascript-ninja/    
+
+---
+
 
 
 
