@@ -425,6 +425,24 @@
 
 ---
 
+### Dia 42: 14 de dezembro de 2018
 
+**Atividades do dia:** JS Ninja all day long. 
+  
+**Pensamentos:**  
+
+**Link:** https://www.udemy.com/curso-javascript-ninja/    
+
+---
+
+### Dia 43: 16 de dezembro de 2018
+
+**Atividades do dia:** Expressões regulares com JS. 
+  
+**Pensamentos:**  
+
+**Link:** https://www.udemy.com/curso-javascript-ninja/    
+
+---
 
 
