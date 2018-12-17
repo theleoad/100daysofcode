@@ -455,4 +455,14 @@
 
 ---
 
+### Dia 45: 17 de dezembro de 2018
+
+**Atividades do dia:** Mais uma seção do JS Ninja vencida.  
+  
+**Pensamentos:**  
+
+**Link:** https://www.udemy.com/curso-javascript-ninja/    
+
+---
+
 
