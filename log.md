@@ -435,13 +435,23 @@
 
 ---
 
-### Dia 43: 16 de dezembro de 2018
+### Dia 43: 15 de dezembro de 2018
 
 **Atividades do dia:** Expressões regulares com JS. 
   
 **Pensamentos:**  
 
 **Link:** https://www.udemy.com/curso-javascript-ninja/    
+
+---
+
+### Dia 44: 16 de dezembro de 2018
+
+**Atividades do dia:** Fiz alguns exercícios com Flexbox e iniciei um layout novo.  
+  
+**Pensamentos:**  
+
+**Link:** https://flexbox.io  
 
 ---
 
