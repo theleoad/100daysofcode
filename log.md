@@ -465,4 +465,14 @@
 
 ---
 
+### Dia 46: 18 de dezembro de 2018
+
+**Atividades do dia:** Trabalhei com Flexbox. =]  
+  
+**Pensamentos:**  
+
+**Link:** https://flexbox.io  
+
+---
+
 
