@@ -475,4 +475,14 @@
 
 ---
 
+### Dia 47: 19 de dezembro de 2018
+
+**Atividades do dia:** Fiz mais uma seção de JS Ninja e também trabalhei um pouco com Angular.
+  
+**Pensamentos:**  
+
+**Link:** https://www.udemy.com/curso-javascript-ninja/   
+
+---
+
 
